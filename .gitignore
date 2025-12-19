@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data files (if large)
+*.csv
+*.xlsx
+*.parquet
+*.h5
+*.hdf5
+
+# Cache
+.cache/
+*.cache
+
+# Logs
+*.log
+
+# PDFs (if you want to exclude them, uncomment next line)
+# *.pdf
+
